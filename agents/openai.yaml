@@ -1,0 +1,4 @@
+interface:
+  display_name: "Software Skills Suite"
+  short_description: "Design, build, review, and hand off software"
+  default_prompt: "Use $software-skills-suite to inspect this repository and complete the requested software task with the relevant workflow."
